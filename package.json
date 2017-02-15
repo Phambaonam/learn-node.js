@@ -1,0 +1,26 @@
+{
+  "name": "learn-node.js",
+  "version": "1.0.0",
+  "description": "learn node.js from basic to advanced",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "mocha-S"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phambaonam/learn-node.js.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Phạm Bảo Nam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phambaonam/learn-node.js/issues"
+  },
+  "homepage": "https://github.com/Phambaonam/learn-node.js#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
